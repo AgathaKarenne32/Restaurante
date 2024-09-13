@@ -6,7 +6,7 @@ package com.mycompany.restaurante.sabor.gourmet;
 
 /**
  *
- * @author Amanda
+ * @author Agatha
  */
 public class Pedido {
     private ItemMenu[] itens;
