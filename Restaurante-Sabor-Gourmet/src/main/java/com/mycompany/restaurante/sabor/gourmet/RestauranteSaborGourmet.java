@@ -6,7 +6,7 @@ package com.mycompany.restaurante.sabor.gourmet;
 
 /**
  *
- * @author Amanda
+ * @author Agatha
  */
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
