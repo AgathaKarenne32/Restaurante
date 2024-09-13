@@ -6,7 +6,7 @@ package com.mycompany.restaurante.sabor.gourmet;
 
 /**
  *
- * @author Amanda
+ * @author Agatha
  */
 import java.util.ArrayList;
 import java.util.List;
