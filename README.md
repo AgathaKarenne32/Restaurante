@@ -63,11 +63,10 @@ Utilize um software de modelagem, como MySQL Workbench ou DBDesigner, para criar
        private String endereco;
        private String telefone;
 
-       public void registrarCliente(String nome, String endereco, String telefone) {
-           this.nome = nome;
-           this.endereco = endereco;
-           this.telefone = telefone;
-       }
+           public void registrarCliente (List<Cliente> listaClientes) {
+        listaClientes.add(this);
+        System.out.println("Cliente registrado com sucesso.");
+    }
 
        public String visualizarCliente() {
            return "Nome: " + nome + ", Endereço: " + endereco + ", Telefone: " + telefone;
